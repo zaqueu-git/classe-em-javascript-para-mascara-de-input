@@ -1,2 +1,2 @@
-# classe-em-javascript-para-m-scara-de-input
+# classe-em-javascript-para-mascara-de-input
 Classe em javascript para máscara de input
